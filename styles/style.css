@@ -40,7 +40,7 @@ a {
     color: inherit;
 }
 
-/* 2. PANTALLA DE CARGA */
+/* 2. PANTALLA DE LA CARGA */
 
 .loader {
     position: fixed;
@@ -105,7 +105,7 @@ a {
     }
 }
 
-/* ESTADO DE LA SALIDA */
+/* ESTADO DE SALIDA */
 
 .loader.hide {
     opacity: 0;
